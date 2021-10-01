@@ -15,8 +15,6 @@ My name is Leandro and I am a Full Stack Web Developer. ⚡
 
 ![Metrics](https://metrics.lecoq.io/leandroheliz?template=terminal&isocalendar=1&languages=1&traffic=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=HTML%3A%20HTML5&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FBuenos_Aires)
 
-
-
 **languages & tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,14 +25,6 @@ My name is Leandro and I am a Full Stack Web Developer. ⚡
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!-- <a href="https://twitter.com/leandroheliz">
-  <img align="left" alt="leandroheliz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
- -->
-<!-- <a href="https://www.linkedin.com/in/leandroheliz/">
-  <img align="left" alt="leandroheliz" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
-
  [![Linkedin Badge](https://img.shields.io/badge/-leandroheliz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroheliz/)](https://www.linkedin.com/in/leandroheliz/)          [![Gmail Badge](https://img.shields.io/badge/-leandroheliz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroheliz@gmail.com)](mailto:leandroheliz@gmail.com)          
 [![Instagram Badge](https://img.shields.io/badge/-@leandro.heliz-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/leandro.heliz)](https://instagram.com/leandro.heliz)          [![Twitter Badge](https://img.shields.io/badge/-@leandroheliz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leandroheliz)](https://twitter.com/leandroheliz)           
 [![YouTube Badge](https://img.shields.io/badge/-leandro%20Heliz-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCbvLTOtKlJ7rvvZzJEPRchQ)](https://www.youtube.com/channel/UCbvLTOtKlJ7rvvZzJEPRchQ) 
@@ -44,9 +34,8 @@ My name is Leandro and I am a Full Stack Web Developer. ⚡
 
 
 
+<img src="https://i.ibb.co/S5QCkqw/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67.gif" alt="68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67" border="0">
+
 # Thanks for reading my README.
 
-
-<img src="https://i.ibb.co/MGt4XGr/banner.gif" alt="banner" border="0">
-
-
+<img aling="rigth" src="https://i.ibb.co/MGt4XGr/banner.gif" alt="banner" border="0">
