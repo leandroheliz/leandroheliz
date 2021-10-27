@@ -37,4 +37,3 @@ My name is Leandro and I am a Full Stack Web Developer. ⚡
 
 # Thanks for reading my README.
 
-<img aling="rigth" src="https://i.ibb.co/MGt4XGr/banner.gif" alt="banner" border="0">
