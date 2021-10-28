@@ -12,17 +12,6 @@ My name is Leandro and I am a Full Stack Web Developer. ⚡
 
 [![leandroheliz github activity graph](https://activity-graph.herokuapp.com/graph?username=leandroheliz&theme=react-dark)](https://github.com/leandroheliz/github-readme-activity-graph)
 
-
-
-**languages & tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
  [![Linkedin Badge](https://img.shields.io/badge/-leandroheliz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroheliz/)](https://www.linkedin.com/in/leandroheliz/)          [![Gmail Badge](https://img.shields.io/badge/-leandroheliz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroheliz@gmail.com)](mailto:leandroheliz@gmail.com)          
 [![Instagram Badge](https://img.shields.io/badge/-@leandro.heliz-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/leandro.heliz)](https://instagram.com/leandro.heliz)          [![Twitter Badge](https://img.shields.io/badge/-@leandroheliz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leandroheliz)](https://twitter.com/leandroheliz)           
 [![YouTube Badge](https://img.shields.io/badge/-leandro%20Heliz-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCbvLTOtKlJ7rvvZzJEPRchQ)](https://www.youtube.com/channel/UCbvLTOtKlJ7rvvZzJEPRchQ) 
