@@ -17,5 +17,4 @@ My name is Leandro and I am a Full Stack Web Developer. ⚡
 [![YouTube Badge](https://img.shields.io/badge/-leandro%20Heliz-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCbvLTOtKlJ7rvvZzJEPRchQ)](https://www.youtube.com/channel/UCbvLTOtKlJ7rvvZzJEPRchQ) 
 
 ![Metrics](https://metrics.lecoq.io/leandroheliz?template=terminal&isocalendar=1&languages=1&traffic=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=HTML%3A%20HTML5&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FBuenos_Aires)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=leandroheliz.leandroheliz)
