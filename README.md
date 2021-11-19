@@ -10,8 +10,6 @@
 
 [![leandroheliz github activity graph](https://activity-graph.herokuapp.com/graph?username=leandroheliz&theme=react-dark)](https://github.com/leandroheliz/github-readme-activity-graph)
 
-![Metrics](https://metrics.lecoq.io/leandroheliz?template=terminal&isocalendar=1&languages=1&traffic=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.aliases=HTML%3A%20HTML5&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FBuenos_Aires)
-
  [![Linkedin Badge](https://img.shields.io/badge/-leandroheliz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroheliz/)](https://www.linkedin.com/in/leandroheliz/)         
  [![Gmail Badge](https://img.shields.io/badge/-leandroheliz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroheliz@gmail.com)](mailto:leandroheliz@gmail.com)          
 [![Instagram Badge](https://img.shields.io/badge/-@leandro.heliz-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/leandro.heliz)](https://instagram.com/leandro.heliz)          
