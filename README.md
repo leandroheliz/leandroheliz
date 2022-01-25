@@ -8,8 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=leandroheliz&row=2&theme=gruvbox)](https://github.com/leandroheliz/github-profile-trophy)
 
-[![leandroheliz github activity graph](https://activity-graph.herokuapp.com/graph?username=leandroheliz&theme=react-dark)](https://github.com/leandroheliz/github-readme-activity-graph)
-
  [![Linkedin Badge](https://img.shields.io/badge/-leandroheliz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandroheliz/)](https://www.linkedin.com/in/leandroheliz/)         
  [![Gmail Badge](https://img.shields.io/badge/-leandroheliz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandroheliz@gmail.com)](mailto:leandroheliz@gmail.com)          
 [![Instagram Badge](https://img.shields.io/badge/-@leandro.heliz-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/leandro.heliz)](https://instagram.com/leandro.heliz)          
