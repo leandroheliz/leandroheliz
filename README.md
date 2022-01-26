@@ -5,13 +5,15 @@
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/officel/40/000000/react.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
 <img src="https://img.icons8.com/fluency/48/000000/coreldraw-2021.png"/>
-
+<img src="https://img.icons8.com/color/48/000000/trello.png"/>
 
 
 ![Leandro Heliz GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroheliz&show_icons=true&theme=radical) 
