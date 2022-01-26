@@ -1,9 +1,10 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! My name is Leandro ⚡
 
 
-stack:
+<h4>stack:</h4>
 
-<img src="https://img.icons8.com/officel/160/000000/react.png"/>
+
+<img src="https://img.icons8.com/officel/40/000000/react.png"/>
 
 
 ![Leandro Heliz GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroheliz&show_icons=true&theme=radical) 
