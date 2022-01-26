@@ -1,7 +1,5 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! My name is Leandro ⚡
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! ⚡
 
-
-Stack: 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
