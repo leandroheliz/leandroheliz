@@ -1,7 +1,7 @@
 Hi 👋 My name is Leandro
 ========================
 
-Frontend Developer
+Frontend Developer & SEO Technical
 ------------------
 
 * 🌍  I'm based in Argentina
